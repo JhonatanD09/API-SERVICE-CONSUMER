@@ -1,0 +1,1082 @@
+[
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Taxi",
+    "origen": "Carrera Minima",
+    "destino": "Carrera Minima",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5000.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Taxi",
+    "origen": "Zona Urbana",
+    "destino": "Barrios Florida, Colinas, Cimarron, Llano Verde, Brisas del Playon, Nuevo Horizonte, Villa Aurora, Los Cedros, Balcones de San Diego, Cola de Pato (a la vara), Colonia Penal (banderas) y Villamanuela.",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5300.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Taxi",
+    "origen": "De Brisas del Playon",
+    "destino": "Barrios Popular, Villa Aurora, Guaratara, Nuevo horizonte",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5400.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Taxi",
+    "origen": "De Colinas",
+    "destino": "Barrios Popular, Guaratara, Villa Aurora, Villa Manuela y Nuevo Horizonte.",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5500.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Taxi",
+    "origen": "Colinas",
+    "destino": "Balneario el Retorno",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 6300.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Taxi",
+    "origen": "De la Independencia",
+    "destino": "Guaratara, Balneario la Fortuna, Villa Manuela",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5400.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Taxi",
+    "origen": "Popular",
+    "destino": "Malecon",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5400.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Taxi",
+    "origen": "Del Malecon",
+    "destino": "Guaratara, Villa Aurora, Villa Manuela, Nuevo Horizonte, Brisas del Playon, Colinas, Independencia",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 6000.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Taxi",
+    "origen": "Del Zona Urbana",
+    "destino": "Peaje, Vaqueros club, y penintenciaria",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 7400.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Taxi",
+    "origen": "Del Zona Urbana",
+    "destino": "Penitenciaria",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 7100.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Taxi",
+    "origen": "De la Normal",
+    "destino": "Barrios Colinas, Brisas del Playon, Florida, Cimarron, Llano verde y demas barrios aledaños a la institucion Educativa Normal Superior (solo estudiantes)",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 4900.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Colectivo",
+    "origen": "Servicio Diurno",
+    "destino": "Servicio Diurno",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 1600.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Colectivo",
+    "origen": "Servicio Dias Festivos",
+    "destino": "Servicio Dias Festivos",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 1700.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Colectivo",
+    "origen": "Ruta Especial: Salida Plaza Centenaria-Cualquier ruta",
+    "destino": "Ruta Especial: Salida Plaza Centenaria-Cualquier ruta",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 1500.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Colectivo",
+    "origen": "Ruta Especial: Centro - Plaza Centeneria",
+    "destino": "Ruta Especial: Centro - Plaza Centeneria",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 1500.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "El Clavel - Rancho Grande",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3200.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "San Juania",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3700.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "Colegio Agropecuario - La Campechana - La Represa",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4000.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "Orotoy",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4100.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "La Balastrera",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4500.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "La Maria",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4900.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "El Peru",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 6300.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Palmera Santana",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 8000.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Hacienda Jarama",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 9300.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Palmera La Loma y Palmera Potosi",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 11200.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Hacienda la Quebradita",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 12300.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Palmera el Placer - Paraguana - vereda San Jose de Palomas",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 14500.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Casa Blanca - Palmera Santana Barbara",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 15500.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "Santa Teresita",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4300.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "Montelibano - La Mejorana",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 5800.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "Caño Hondo",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 6500.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "Quebratidas",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 8500.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "El Cedral - Dinamarca",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 8500.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
+    "origen": "Acacias",
+    "destino": "Cruce de Vaqueros - Loma de Tigre - Montebello - San Isidro de Chichimene",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4900.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
+    "origen": "Acacias",
+    "destino": "Santa Rosa",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 6200.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
+    "origen": "Acacias",
+    "destino": "Puerto Canecas",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 8000.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
+    "origen": "Acacias",
+    "destino": "Patio Bonito - La Primavera",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 11000.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Servicio publico de transporte terrestre automotor mixto Precios de Carga (Canasta - Canastilla)",
+    "origen": "N/A",
+    "destino": "N/A",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 2200.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Servicio publico de transporte terrestre automotor mixto Precios de Carga (Bulto)",
+    "origen": "N/A",
+    "destino": "N/A",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3700.0
+  },
+  {
+    "a_o": "2022",
+    "normatividad_que_rige_la": "Resolucion 062 de 2022",
+    "tipo": "Servicio publico de transporte terrestre automotor mixto (Sobre o Encomineda)",
+    "origen": "N/A",
+    "destino": "N/A",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 2200.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Taxi",
+    "origen": "Carrera Minima",
+    "destino": "Carrera Minima",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 4800.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Taxi",
+    "origen": "Zona Urbana",
+    "destino": "Barrios Florida, Colinas, Cimarron, Llano Verde, Brisas del Playon, Nuevo Horizonte, Villa Aurora, Los Cedros, Balcones de San Diego, Cola de Pato (a la vara), Colonia Penal (banderas) y Villamanuela.",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5000.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Taxi",
+    "origen": "De Brisas del Playon",
+    "destino": "Barrios Popular, Villa Aurora, Guaratara, Nuevo horizonte",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5100.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Taxi",
+    "origen": "De Colinas",
+    "destino": "Barrios Popular, Guaratara, Villa Aurora, Villa Manuela y Nuevo Horizonte.",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5200.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Taxi",
+    "origen": "Colinas",
+    "destino": "Balneario el Retorno",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 6000.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Taxi",
+    "origen": "De la Independencia",
+    "destino": "Guaratara, Balneario la Fortuna, Villa Manuela",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5100.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Taxi",
+    "origen": "Popular",
+    "destino": "Malecon",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5100.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Taxi",
+    "origen": "Del Malecon",
+    "destino": "Guaratara, Villa Aurora, Villa Manuela, Nuevo Horizonte, Brisas del Playon, Colinas, Independencia",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5700.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Taxi",
+    "origen": "Del Zona Urbana",
+    "destino": "Peaje, Vaqueros club",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 7000.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Taxi",
+    "origen": "Del Zona Urbana",
+    "destino": "Penintenciaria",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 6700.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Taxi",
+    "origen": "De la Normal",
+    "destino": "Barrios Colinas, Brisas del Playon, Florida, Cimarron, Llano verde y demas barrios aledaños a la institucion Educativa Normal Superior (solo estudiantes)",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 4600.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte Publico colectivo en el Municipio de Acacias",
+    "origen": "Servicio Diurno",
+    "destino": "Servicio Diurno",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 1900.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte Publico colectivo en el Municipio de Acacias",
+    "origen": "Servicio Dias Festivos",
+    "destino": "Servicio Dias Festivos",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 2000.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte Publico colectivo en el Municipio de Acacias",
+    "origen": "Ruta Especial: Salida Plaza Centenaria-Cualquier ruta",
+    "destino": "Ruta Especial: Salida Plaza Centenaria-Cualquier ruta",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 1500.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte Publico colectivo en el Municipio de Acacias",
+    "origen": "Ruta Especial: Centro - Plaza Centeneria",
+    "destino": "Ruta Especial: Centro - Plaza Centeneria",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 1500.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "El Clavel - Rancho Grande",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3000.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "San Juania",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3500.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "Colegio Agropecuario - La Campechana - La Represa",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3800.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "Orotoy",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3900.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "La Balastrera",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4300.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "La Maria",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4500.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "El Peru",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 6000.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Palmera Santana",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 7500.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Hacienda Jarama",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 8800.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Palmera La Loma y Palmera Potosi",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 10600.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Hacienda la Quebradita",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 11600.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Palmera el Placer - Paraguana - vereda San Jose de Palomas",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 13500.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Casa Blanca - Palmera Santana Barbara",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 14700.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "Santa Teresita",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4000.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "Montelibano - La Mejorana",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 5500.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "Caño Hondo",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 6200.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "Quebratidas",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 8000.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "El Cedral - Dinamarca",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 8000.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
+    "origen": "Acacias",
+    "destino": "Cruce de Vaqueros - Loma de Tigre - Montebello - San Isidro de Chichimene",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4600.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
+    "origen": "Acacias",
+    "destino": "Santa Rosa",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 5900.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
+    "origen": "Acacias",
+    "destino": "Puerto Canecas",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 7600.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
+    "origen": "Acacias",
+    "destino": "Patio Bonito - La Primavera",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 10400.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Servicio publico de transporte terrestre automotor mixto Precios de Carga (Canasta - Canastilla)",
+    "origen": "N/A",
+    "destino": "N/A",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 2100.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Servicio publico de transporte terrestre automotor mixto Precios de Carga (Bulto)",
+    "origen": "N/A",
+    "destino": "N/A",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3500.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 026 de 2021",
+    "tipo": "Servicio publico de transporte terrestre automotor mixto (Sobre o Encomineda)",
+    "origen": "N/A",
+    "destino": "N/A",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 2100.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 999 de 2021",
+    "tipo": "Transporte Publico colectivo en el Municipio de Acacias",
+    "origen": "Servicio Diurno",
+    "destino": "Servicio Diurno",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 1600.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 999 de 2021",
+    "tipo": "Transporte Publico colectivo en el Municipio de Acacias",
+    "origen": "Servicio Dias Festivos",
+    "destino": "Servicio Dias Festivos",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 1700.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 999 de 2021",
+    "tipo": "Transporte Publico colectivo en el Municipio de Acacias",
+    "origen": "Ruta Especial: Salida Plaza Centenaria-Cualquier ruta",
+    "destino": "Ruta Especial: Salida Plaza Centenaria-Cualquier ruta",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 1500.0
+  },
+  {
+    "a_o": "2021",
+    "normatividad_que_rige_la": "Resolucion 999 de 2021",
+    "tipo": "Transporte Publico colectivo en el Municipio de Acacias",
+    "origen": "Ruta Especial: Centro - Plaza Centeneria",
+    "destino": "Ruta Especial: Centro - Plaza Centeneria",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 1500.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Taxi",
+    "origen": "Carrera Minima",
+    "destino": "Carrera Minima",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 4700.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Taxi",
+    "origen": "Zona Urbana",
+    "destino": "Barrios Florida, Colinas, Cimarron, Llano Verde, Brisas del Playon, Nuevo Horizonte, Villa Aurora, Los Cedros, Balcones de San Diego, Cola de Pato (a la vara), Colonia Penal (banderas) y Villamanuela.",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 4900.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Taxi",
+    "origen": "De Brisas del Playon",
+    "destino": "Barrios Popular, Villa Aurora, Guaratara, Nuevo horizonte",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5000.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Taxi",
+    "origen": "De Colinas",
+    "destino": "Barrios Popular, Guaratara, Villa Aurora, Villa Manuela y Nuevo Horizonte.",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5100.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Taxi",
+    "origen": "Colinas",
+    "destino": "Balneario el Retorno",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5900.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Taxi",
+    "origen": "De la Independencia",
+    "destino": "Guaratara, Balneario la Fortuna, Villa Manuela",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5000.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Taxi",
+    "origen": "Popular",
+    "destino": "Malecon",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5000.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Taxi",
+    "origen": "Del Malecon",
+    "destino": "Guaratara, Villa Aurora, Villa Manuela, Nuevo Horizonte, Brisas del Playon, Colinas, Independencia",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 5600.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Taxi",
+    "origen": "Del Zona Urbana",
+    "destino": "Peaje, Vaqueros club, y penintenciaria",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 6800.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Taxi",
+    "origen": "De la Normal",
+    "destino": "Barrios Colinas, Brisas del Playon, Florida, Cimarron, Llano verde y demas barrios aledaños a la institucion Educativa Normal Superior (solo estudiantes)",
+    "recargo_nocturno_o_festivo": "300",
+    "tarifa": 4500.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Colectivo",
+    "origen": "Transporte Publico colectivo en el Municipio de Acacias",
+    "destino": "Transporte Publico colectivo en el Municipio de Acacias",
+    "recargo_nocturno_o_festivo": "100",
+    "tarifa": 1900.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "El Clavel - Rancho Grande",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3000.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "San Juania",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3400.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "Colegio Agropecuario - La Campechana - La Represa",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3700.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "Orotoy",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3800.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Orotoy)",
+    "origen": "Acacias",
+    "destino": "La Balastrera",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4200.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "La Maria",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4500.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "El Peru",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 5900.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Palmera Santana",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 7500.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Hacienda Jarama",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 8700.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Palmera La Loma y Palmera Potosi",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 10400.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Hacienda la Quebradita",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 11500.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Palmera el Placer - Paraguana - vereda San Jose de Palomas",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 13500.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Jose de las Palomas)",
+    "origen": "Acacias",
+    "destino": "Casa Blanca - Palmera Santana Barbara",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 14500.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "Santa Teresita",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4000.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "Montelibano - La Mejorana",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 5400.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "Caño Hondo",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 6100.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "Quebratidas",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 8200.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - Dinamarca)",
+    "origen": "Acacias",
+    "destino": "El Cedral - Dinamarca",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 8700.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
+    "origen": "Acacias",
+    "destino": "Cruce de Vaqueros - Loma de Tigre - Montebello - San Isidro de Chichimene",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 4500.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
+    "origen": "Acacias",
+    "destino": "Santa Rosa",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 5800.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
+    "origen": "Acacias",
+    "destino": "Puerto Canecas",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 7500.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
+    "origen": "Acacias",
+    "destino": "Patio Bonito - La Primavera",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 10200.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Servicio publico de transporte terrestre automotor mixto Precios de Carga (Canasta - Canastilla)",
+    "origen": "N/A",
+    "destino": "N/A",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 2100.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Servicio publico de transporte terrestre automotor mixto Precios de Carga (Bulto)",
+    "origen": "N/A",
+    "destino": "N/A",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 3400.0
+  },
+  {
+    "a_o": "2020",
+    "normatividad_que_rige_la": "Resolucion 026 de 2020",
+    "tipo": "Servicio publico de transporte terrestre automotor mixto (Sobre o Encomineda)",
+    "origen": "N/A",
+    "destino": "N/A",
+    "recargo_nocturno_o_festivo": "N/A",
+    "tarifa": 2100.0
+  }
+]
