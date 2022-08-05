@@ -19,6 +19,10 @@ public class PanelDowloand extends MyGridPanel{
 	 */
 	private static final long serialVersionUID = 1L;
 
+	/**
+	 * Constructor de la clase y agregar la imagen y el titulo al boton de descargar
+	 * @param l
+	 */
 	public PanelDowloand(ActionListener l) {
 		
 		Image img= new ImageIcon(getClass().getResource("/img/dowloand.png")).getImage();
@@ -37,6 +41,9 @@ public class PanelDowloand extends MyGridPanel{
 		addComponent(new JLabel(), 0, 3, 13,5);
 	}
 	
+	/**
+	 * Metodo para editar opciones de un jlabel
+	 */
 	public void editLabel(JLabel jLabel){
 		jLabel.setFont(new Font("Roboto", Font.BOLD, 15));
 		setOpaque(true);

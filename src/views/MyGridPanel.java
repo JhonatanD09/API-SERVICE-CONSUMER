@@ -9,6 +9,9 @@ public class MyGridPanel extends JPanel {
     private static final int COLUMNS_NUMBER = 12;
     private GridBagConstraints constraints;
 
+    /**
+     * Contructor de la clase, este crea un gridcontrains para agregar con posiciones de grid
+     */
     public MyGridPanel() {
         setLayout(new GridBagLayout());
         constraints = new GridBagConstraints();
@@ -16,6 +19,14 @@ public class MyGridPanel extends JPanel {
         generateBasicGrid(constraints);
     }
 
+    /**
+     * Agrega un componente
+     * @param component	Componente a agregar
+     * @param posX	
+     * @param posY
+     * @param width
+     * @param height
+     */
     protected void addComponent(JComponent component, int posX, int posY, int width, double height) {
         constraints.gridx = posX;
         constraints.gridy = posY;
@@ -24,6 +35,15 @@ public class MyGridPanel extends JPanel {
         add(component, constraints);
     }
 
+    /**
+     * Agrega un componente
+     * @param component
+     * @param posX
+     * @param posY
+     * @param width
+     * @param height
+     * @param insets
+     */
     protected void addComponentWithInsets(JComponent component, int posX, int posY, int width, double height, Insets insets) {
         constraints.insets = insets;
         constraints.gridx = posX;

@@ -22,6 +22,10 @@ public class PanelFilter extends MyGridPanel{
 	private JComboBox<String> filtersBox;
 	private JTextField dataFilterField;
 	
+	/**
+	 * Contructor de la clase, e inicializa y acomoda los componentes
+	 * @param l
+	 */
 	public PanelFilter(ActionListener l) {
 		
 		setPreferredSize(new Dimension(200,200));
@@ -50,6 +54,9 @@ public class PanelFilter extends MyGridPanel{
 		addComponent(createBtn("Filtrar",Color.decode("#648cda"),l,Actions.FILTER.name()), 0,7, 13, 1);
 	}
 	
+	/**
+	 * Crea boton personalizado
+	 */
 	private JButton createBtn(String txt, Color color, ActionListener listener, String command){
         JButton btn = new JButton(txt);
         btn.setForeground(Color.WHITE);
@@ -61,10 +68,17 @@ public class PanelFilter extends MyGridPanel{
         return btn;
     }
 	
+	/**
+	 * Cmbia la fuente a un jlabel
+	 * @param jLabel
+	 */
 	public void editLabel(JLabel jLabel){
 		jLabel.setFont(new Font("Roboto", Font.BOLD, 15));
 	}
 	
+	/**
+	 * @return Los datos para aplicar el filtro
+	 */
 	public String[] dataFilter(){
 		if (((String)filtersBox.getSelectedItem()).equals("Todos")) {
 			dataFilterField.setText("");

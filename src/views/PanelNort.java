@@ -18,6 +18,9 @@ public class PanelNort extends JPanel{
 	private static final String IMG_URL = "/img/logo.png";
 	private static final String TITLE = "Tarifas del servicio de transporte público individual de pasajeros en Acacías";
 
+	/**
+	 * Metodo constructor de la clase, agrega la imagen y el titulo
+	 */
 	public PanelNort() {
 		setBackground(Color.decode("#3267cc"));
 		setPreferredSize(new Dimension(300,140));
@@ -34,6 +37,10 @@ public class PanelNort extends JPanel{
 		add(title, BorderLayout.CENTER);
 	}
 
+	/**
+	 * metodo para editar un jlabel
+	 * @param jLabel
+	 */
 	public void editLabel(JLabel jLabel){
 		jLabel.setForeground(Color.WHITE);
 		jLabel.setFont(new Font("Roboto", Font.BOLD, 25));

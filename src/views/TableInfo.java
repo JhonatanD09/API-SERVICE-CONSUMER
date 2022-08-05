@@ -18,6 +18,10 @@ public class TableInfo extends JPanel{
 
 	private TablePanel data; 
 
+	/**
+	 * Contructor de la clase
+	 * @param dataOperator
+	 */
 	public TableInfo(Object [][] dataOperator) {
 		setBackground(Color.WHITE);
 		data = new TablePanel(dataOperator, COLUMNS);
@@ -25,12 +29,20 @@ public class TableInfo extends JPanel{
 		add(data);
 	}
 	
+	/**
+	 * Cambia la info a mostrar en la tabla
+	 * @param dataOperator
+	 */
 	public void setDataOperator(Object [][] dataOperator) {
 		data.setData(dataOperator, COLUMNS);
 		revalidate();
 		repaint();
 	}
 	
+	/**
+	 * 
+	 * @return El registro seleccionado, si no se ha selecionado retorna null
+	 */
 	public PublicService  getDataIndex() {
 		int rowSelect = data.getTable().getSelectedRow();
 		if (rowSelect >= 0) {			

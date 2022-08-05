@@ -24,6 +24,11 @@ public class MainFrame extends JFrame{
 	private JScrollPane jScrollPane;
 	private AddProcessDialog addProcessDialog;
 
+	/**
+	 * Contructor de la clase principal de la vista
+	 * @param dataInfo
+	 * @param listener
+	 */
 	public MainFrame(Object[][] dataInfo, ActionListener listener) {
 		this.publicServices = dataInfo;
 		this.actionListener = listener;
@@ -37,7 +42,9 @@ public class MainFrame extends JFrame{
 		initComponents();
 	}
 
-
+/**
+ * Inicia los componentes a mostrar
+ */
 	private void initComponents() {
 		panelNort = new PanelNort();
 		tableInfo = new TableInfo(publicServices);
@@ -55,11 +62,18 @@ public class MainFrame extends JFrame{
 		add(panelDowloand, BorderLayout.EAST);
 	}
 	
+	/**
+	 * Metodo fachada que retorna el registro seleccionado
+	 * @return
+	 */
 	public PublicService selectedItem() {
 		return tableInfo.getDataIndex();
 	}
 
-
+/**
+ * Actualiza la info de la tabla en caso de una operacion de crud
+ * @param dataInfo
+ */
 	public void updateData(Object[][] dataInfo) {
 		this.publicServices = dataInfo;
 		remove(jScrollPane);
@@ -70,25 +84,43 @@ public class MainFrame extends JFrame{
 		repaint();
 	}
 	
+	/**
+	 * Muestra el dialogo de agregar
+	 */
 	public void showAdd() {
 		addProcessDialog = new AddProcessDialog(actionListener, false);
 		addProcessDialog.setVisible(true);
 	}
 	
+	/**
+	 * Muestra el dialogo de editar
+	 * @param publicService
+	 */
 	public void showEdit(PublicService publicService) {
 		addProcessDialog = new AddProcessDialog(actionListener, true);
 		addProcessDialog.setInitialInfo(publicService);
 		addProcessDialog.setVisible(true);
 	}
 	
+	/**
+	 * Retorna los datos de los inputs
+	 * @return
+	 */
 	public String[] data() {
 		return addProcessDialog.data();
 	}
 	
+	/**
+	 * Retorna los datos de los filtros
+	 * @return
+	 */
 	public String[] dataFilter() {
 		return panelFilter.dataFilter();
 	}
 	
+	/**
+	 * Elimina los dialogos de agregar o editar
+	 */
 	public void deleteDialogAdd() {
 		addProcessDialog.dispose();
 	}

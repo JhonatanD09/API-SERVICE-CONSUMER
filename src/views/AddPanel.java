@@ -23,12 +23,22 @@ public class AddPanel extends MyGridPanel{
 	private JTextField year,normative,type,origin,destination,rate,surchage;
     private JButton addBtn;
 
+    /**
+     * Contructor de la clase
+     * @param listener
+     * @param isEditing
+     */
     public AddPanel(ActionListener listener, boolean isEditing) {
         setBackground(Color.decode("#FDFEFE"));
         setBorder(BorderFactory.createLineBorder(Color.BLACK, 1, true));
         initComponents(listener, isEditing);
     }
 
+    /**
+     * Inicia los componentes de agregae
+     * @param listener
+     * @param isEditing
+     */
     private void initComponents(ActionListener listener, boolean isEditing) {
         initTitle(isEditing);
         year();
@@ -45,6 +55,10 @@ public class AddPanel extends MyGridPanel{
         }
     }
 
+    /**
+     * Los metodos siguientes agregan componentes al panel en diferentes posiciones
+     */
+    
     private void initTitle(boolean isEditing){
         String title = isEditing ? "Editar" : "Agregar";
         JTextArea titleTa = new JTextArea();
@@ -119,17 +133,27 @@ public class AddPanel extends MyGridPanel{
         addComponent(new JLabel(" "), 0, 18, 11, 0.1);
     }
 
+    /**
+     * Agregar boton a la vista
+     */
     private void initButtons(ActionListener listener, String acceptEvent, boolean isEditing){
         String addBtnTxt = isEditing ? "Editar" : "Agregar";
         addBtn = createBtn(addBtnTxt, isEditing ?Color.decode("#FFB520"):Color.decode("#4BD358"), listener, acceptEvent);
         addComponent(addBtn, 3, 20, 2, 0.12);
     }
+    
+    /**
+     * Metodo para crear labels y editar estilos
+     */
     private JLabel createLb(String txt, Font font){
         JLabel lb = new JLabel(txt);
         lb.setFont(font);
         return lb;
     }
 
+    /**
+     * Metodo para crear botones y editar estilos
+     */
     private JButton createBtn(String txt, Color color, ActionListener listener, String command){
         JButton btn = new JButton(txt);
         btn.setForeground(Color.WHITE);
@@ -147,6 +171,10 @@ public class AddPanel extends MyGridPanel{
 		return new String[] {year.getText(),normative.getText(),type.getText(),origin.getText(),destination.getText(),rate.getText(),surchage.getText()};
 	}
 
+	/**
+	 * Setea la informacion en caso de que el panel sea editar
+	 * @param publicService info a setear
+	 */
 	public void setInitialInfo(PublicService publicService) {
 		year.setText(publicService.getYear());
 		normative.setText(publicService.getNormative());

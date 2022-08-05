@@ -12,12 +12,20 @@ public class PanelCrud extends MyGridPanel{
 
 	private static final long serialVersionUID = 1L;
 	
+	/**
+	 * Contructor de la clase
+	 * @param listener
+	 */
 	public PanelCrud(ActionListener listener) {
 		setPreferredSize(new Dimension(300, 100));
 		setBackground(Color.WHITE);
 		initComponents(listener);
 	}
 
+	/**
+	 * Agrega los botones de crud
+	 * @param listener
+	 */
 	private void initComponents(ActionListener listener) {
 		addComponent(new JLabel(), 0,0,13,1);
 		addComponent(createBtn("Agregar",Color.decode("#4BD358"), listener,Actions.ADD.name()), 0, 1, 13, 1);
@@ -29,6 +37,9 @@ public class PanelCrud extends MyGridPanel{
 	}
 	
 	
+	/**
+	 * Metodo para crear un boton personalizado
+	 */
 	private JButton createBtn(String txt, Color color, ActionListener listener, String command){
         JButton btn = new JButton(txt);
         btn.setForeground(Color.WHITE);
