@@ -1046,15 +1046,6 @@
   {
     "a_o": "2020",
     "normatividad_que_rige_la": "Resolucion 026 de 2020",
-    "tipo": "Transporte terrestre automotor mixto (Ruta Acacias - San Isidro de Chichimene)",
-    "origen": "Acacias",
-    "destino": "Patio Bonito - La Primavera",
-    "recargo_nocturno_o_festivo": "N/A",
-    "tarifa": 10200.0
-  },
-  {
-    "a_o": "2020",
-    "normatividad_que_rige_la": "Resolucion 026 de 2020",
     "tipo": "Servicio publico de transporte terrestre automotor mixto Precios de Carga (Canasta - Canastilla)",
     "origen": "N/A",
     "destino": "N/A",
